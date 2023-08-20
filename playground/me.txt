@@ -1,5 +1,0 @@
-{{#user}}
-Name: Darshan Bhatt
-Skills: HTML, CSS, JS, Bootstrap, Node.js, Express.js
-Email: darshanbhatt4510@gmail.com
-{{/user}}
